@@ -1,2 +1,2 @@
-# ToDo
-Simple ToDo Android App.
+# Quiz App
+
